@@ -5,9 +5,9 @@ public class Main {
 
         Cat murzik = new Cat("Мурзик");
         //murzik.age = 3;
-        murzik.meow();
-
-        System.out.println("murzik.getName() = " + murzik.getName());
+//        murzik.meow();
+//
+//        System.out.println("murzik.getName() = " + murzik.getName());
 
         Cat begemot = new Cat("Бегемот", -5);
 
